@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "name": "Alberto Gonzalez Martinez",
+    "label": "PhD Student",
+    "picture": "https://whatwehaveunlearned.github.io/images/alberto.jpg",
     "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "808-725-0968",
+    "website": "https://whatwehaveunlearned.github.io",
+    "summary": "I am a PhD student in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,36 +17,26 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "whatwehaveunlearned",
+        "url": "http://github.com/whatwehaveunlearned"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "agonzamart",
+        "url": "http://linkedin.com/in/agonzamart"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Visual Analytics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Visualization",
+        "Machine Learning"
       ]
     },
     {
-      "name": "data mining",
+      "name": "visual analytics",
       "keywords": [
       ]
     },
@@ -63,10 +53,11 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascipt",
+        "Angular",
+        "D3",
+        "Python",
+        "Unity"
       ]
     },
     {
@@ -84,9 +75,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2020)",
+      "studyType": "PhD",
+      "startDate": "2015-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
