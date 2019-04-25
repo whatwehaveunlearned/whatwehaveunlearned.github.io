@@ -18,11 +18,13 @@ This page represents evidence of Alberto Gonzalez Scholarly Abilities in Compute
 ### Sage River Disaster Information (SageRDI): Demonstrating Application Data Sharing In SAGE2
 kobayashi D., Matthew R., Gonzalez Martinez A., Kirshenbaum K., Seto-Mook T., Leigh J., Haga J.
 
-2018 ACM International Conference
+2018 ACM International Conference.
 
 The Scalable Amplified Group Environment (SAGE2) is an open-source, web-based middleware for driving tiled display walls. SAGE2 allows running multiple applications at once within its workspace. In large display walls, users tend to collaborate using multiple applications in the same space for simultaneous interaction and review. Unfortunately, many of these applications were created independently by different developers and were never intended to interoperate which greatly limits their potential reusability. SAGE2 developers face system limitations where applications are data segregated and cannot easily communicate with others. To counter this problem, we developed the SAGE2 data sharing components. We describe the Sage River Disaster Information (SageRDI) application and the SAGE2 architectural implementations necessary for its operation. SageRDI enables river.go.jp, an existing website that provides water sensor data for Japan, to interact with other SAGE2 applications without modifying the website's server, hosted files, nor any of the default SAGE2 applications.
 
-My contribution to this paper is around 10%. Helping with the study and the theoretical framework to ground the results to.  
+My contribution to this paper is around 10%. Helping with the study and the theoretical framework to ground the results to.
+
+The acceptance rate of ACM International Conference is 27%.
 
 [Paper](https://www.researchgate.net/publication/329108066_Sage_River_Disaster_Information_SageRDI_Demonstrating_Application_Data_Sharing_In_SAGE2)
 
@@ -47,6 +49,8 @@ Modern   science   is   increasingly   data-driven   and collaborative  in  natu
 
 My contributions to this paper is around 90%, the definition, research. design, implementation and iterations on the different visualization tools used in the system as well as writing the paper.
 
+The acceptance rate of IEEE Congress on Big data Conference is 17%.
+
 [Paper](https://www.researchgate.net/publication/319637604_Big_Data_and_Analysis_of_Data_Transfers_for_International_Research_Networks_Using_NetSage)
 
 ### The Destiny-class CyberCANOE - a surround screen stereoscopic, cyber-enabled collaboration analysis navigation and observation environment
@@ -68,7 +72,9 @@ Poster Presented at the Information Visualization Conference at IEEE VisWeek in 
 
 InfoVis novices struggle with visualization construction. Even with the aid of visualization software, such users may face challenges when translating their questions into appropriate visual encodings, or interactively refining the representation to achieve a desired result. A ‘conversational interface’ which maintains a dialog with the user through natural language and gestures, could allow users to engage in repeated cycles of visualization generation and modification, asking questions directly through speech. In this poster we present a prototype conversational visual data analysis system. Our prototype was developed from a corpus consisting in 15-subjects engaging in exploratory data visualization with a simulated conversational interface. It features 1) speech to visualization pipeline, 2) classification system to divide utterances into major types, 3) history manager and knowledge-base.
 
-My contributions to this paper was about 50% of the total work. I defined and helped envision and develop the structure of the architecture to perform live visual queries. I wrote sections of this paper. 
+My contributions to this paper was about 50% of the total work. I defined and helped envision and develop the structure of the architecture to perform live visual queries. I wrote sections of this paper.
+
+The acceptance rate of IEEE Visualization Conference is 25%.
 
 [Paper](https://www.researchgate.net/publication/311559539_Towards_a_Dialogue_System_that_Supports_Rich_Visualizations_of_Data)
 
@@ -80,6 +86,8 @@ The 17th Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL 2016), Los An
 The goal of our research is to support full-fledged dialogue between a user and a system that transforms the user queries into visualizations. So far, we have collected a corpus where users explore data via visualizations; we have annotated the corpus for user intentions; and we have developed the core NL-to-visualization pipeline.
 
 My contributions to this paper was around 70% of the total work. Tagging and analysing corpuses and helping to develop the coding mechanisms and the utterances that should be recorded. I did reviews and research on visualization task taxonomies to come up with the user interactions. I also worked researching and implementing some of the pieces of the NL pipeline.
+
+The acceptance rate of SIGdial Conference is 40%.
 
 [Paper](https://www.researchgate.net/publication/311559539_Towards_a_Dialogue_System_that_Supports_Rich_Visualizations_of_Data)
 
@@ -104,6 +112,8 @@ A natural language interface to visual data exploration would allow a user to di
 [Paper](https://www.researchgate.net/publication/321372960_Show_me_data_Observational_study_of_a_conversational_interface_in_visual_data_exploration?_sg=NqbxI_EXi0mMSXHTmWTfe9y-ykQlDwaJs9HXkD2SNUwcRvXuncsJocb_wEf8P0EDpddp1f7oM6SMJHJxnhBPrERSucmuXLmo7u4mmv6N.5ohBprnI_Hah5Jtg5bX4w6t_MnPV5CQI4hti5BPfURKXCMTQfaXaDgtGuC-n2ObCY0-TZc7UwSRHvnyPkUySzg)
 
 My contributions to this paper amount to 60% of the total work. Research in Machine-Human Dialogue Methods. Natural Language Processing techniques and tools that we could leverage to build the system. Defining the form and structure of the study. I also help with data analysis and interpretations of the results. I wrote different sections of this paper.
+
+The acceptance rate of IEEE Visualization Conference is 25%.
 
 ### Tell Me What do You See: Detecting Perceptually-Separable Visual Patterns Via Clustering of Image-Space Features in Visualizations.
 K. Reda, A. Gonzalez, J. Leigh, M. Papka.
